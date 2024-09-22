@@ -11,4 +11,15 @@ body {
     
 
   }
+  button {
+    padding: 20*40;
+    border-radius: 50;
+    border: 0;
+    background-color: antiquewhite;
+    font-size: 15px;
+
+
+
+  }
+  
   
